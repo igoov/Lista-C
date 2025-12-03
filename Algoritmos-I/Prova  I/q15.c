@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//erro besta de parantese na hora da soma.
 int main (){
     float n1,n2,n3;
     float p1,p2,p3;
